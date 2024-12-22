@@ -8,4 +8,6 @@ joblib
 catboost
 xgboost
 dill
+pickle
+flask
 -e .
